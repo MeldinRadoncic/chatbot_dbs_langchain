@@ -1,0 +1,776 @@
+C/ivilizations are often defined by the lives and works of their
+creative geniuses. The glory that was ancient Greece was built on the
+achievements of Homer, Pythagoras, Herodotus, Sophocles, Plato, Hippocrates, Phidias, and hundreds of other great creators. Modern European
+civilization was illuminated by the likes of Galileo, Descartes, Tolstoy, Rembrandt, and Mozart. The same story may be told of the world's other civilizations. The histories of Persia, India, China, and other high cultures are to
+a very large extent chronologically arranged biographies of notable creative
+minds. As Thomas Carlyle proclaimed in his famous 1841 essay On Heroes,
+"Universal History, the history of what man has accomplished in this world,
+is at bottom the History of the Great Men who have worked here." Among
+those he discussed at length as illustrations were Dante and Shakespeare,
+two of the greatest writers in any language.
+So obvious is the debt civilizations owe these exceptional individuals that
+the appearance of such geniuses is often considered an indication of the creative health of a civilized culture. For example, this linking is evident in the
+1944 Configurations of Culture Growth by Alfred Kroeber, an eminent cultural anthropologist. Wishing to gauge the emergence, growth, and stagnation of civilizations throughout the world, Kroeber could conceive of no
+better method than to assess the appearance of famous creators across a culture's history. A civilization enjoyed a golden age when it overflowed with
+~i
+1
+2 ~ Origins of Genius ~
+first-rate creative minds, experienced a silver age when the creative activity
+descended to a less notable level, and suffered a dark age when creators
+became few and far between. Indeed, this association goes beyond the
+abstract operational definitions of behavioral scientists. What nation does
+not take pride when one of its writers or scientists is awarded the Nobel
+Prize?
+Yet who are these creative luminaries? Where do they come from? When
+do they appear? What are they like? Can any one of us become a creative
+genius? Or is high-caliber creativity limited to the one in a million?
+These questions are important. In fact, they provide the impetus behind
+my writing this book. But before I can even begin to address these issues, I
+must first define what we will take to mean "creative genius."
+Creative Genius
+Actually, I need to define two distinct even if overlapping terms: genius
+and creativity. I will begin with a look at the multiple ways that genius can
+be defined, identifying the definition that will prove most useful in this
+book. I will then turn to the task of defining creativity, another concept that
+can be defined in more than one way. By merging these definitions, we end
+up with the book's subject matter.
+Genius
+The word genius has a curious etymology. It dates from Roman times,
+when the word signified the guardian spirit of a particular individual or
+location. Because this spirit provided for the distinctiveness or uniqueness
+of the entity with which it was identified, it came to represent that which
+was special about the person, place, period, or other entity. Thus, we could
+speak of the "genius" of a culture or era or even people, such as the genius of
+Native American culture, the genius of the Elizabethan age, or the genius of
+the Arabic language. With respect to individuals, the term genius became
+descriptive of some natural talent, ability, or disposition, especially when it
+goes well beyond the norm. Hence, a person might have a genius for making
+the most apt remarks in socially difficult situations. In the extreme case, an
+individual might achieve fame for the realization of this special talent. As a
+consequence, famous composers, artists, writers, and scientists began to be
+called geniuses. Beethoven was a musical genius, Shakespeare a dramatic
+genius, Michelangelo an artistic genius, Newton a scientific genius, and so
+forth. Because the successful exercise of these special aptitudes seemed to
+imply an extraordinary degree of intellect or talent, the word genius also
+began to be used in the more generic fashion favored today—as someone
+who exhibits exceptional intellectual or creative power. The specific applica-
+~ Genius and Darwin ~ 3
+tion of this power was less important than the possession of the capacity. It
+is for this reason that Samuel Johnson, the author of the first English dictionary, could claim that "the true Genius is a mind of large general powers,
+accidentally determined to some particular direction."
+Behavioral scientists have recognized the significance of the term genius
+by attempting to provide it with a more exact meaning. If the concept has
+any scientific content, it should be possible to devise quantitative measures
+to evaluate it. These measures may then be used to gauge the magnitude of
+genius an individual can claim, or at least to identify those who most
+deserve the appellation. Such measures are of two kinds, namely, those who
+attempt to assess intelligence and those who try to estimate eminence.
+Intelligence. At the beginning of this century, psychologists tried to build
+a more precise definition on the more generic meaning suggested by
+Samuel Johnson. This new conception was founded on the intelligence test.
+Alfred Binet had already devised a measure of intellectual ability, which
+others transformed into a measure of IQ, the intelligence quotient. People
+with average powers received scores of 100, and scores lower or higher than
+this baseline figure indicated whether an individual was below or above
+average in intellectual ability. Eventually, a number of psychologists, such as
+Lewis Terman at Stanford University and Leta Hollingworth at Columbia
+University, began identifying children as "geniuses" who obtained exceptionally high scores on these tests. The exact cutoff would vary from
+researcher to researcher, although it seems that the threshold IQ ranged
+somewhere between 130 and 140. The basic assumption was that someone
+with an IQ in this range or higher could boast the "mind of large general
+powers" that might be channeled successfully into almost any activity.
+This high-IQ definition of genius became very popular not only among
+psychologists but among the general public besides. Parents of high-IQ
+children would learn to call their offspring "geniuses." There even exists a
+society named Mensa that consists solely of "geniuses" who have scored a
+bit better than 130 on some standard IQ test. Even so, this psychometric
+definition leaves much to be desired. As will become apparent later in this
+book, a high IQ by no means ensures that an individual will display any special talent or achievement beyond the rather restricted ability to score high
+on standardized tests. For instance, the Guinness Book of Records notes that
+Marilyn vos Savant holds the record with an IQ of 228, and yet she does not
+have the kind of accomplishments to her credit that we might predict from
+such an exceptional intellect. Rather than discovering the cure for cancer or
+even making a better mousetrap, her achievements thus far have been limited to writing the weekly column "Ask Marilyn," in which she responds to
+readers' questions that supposedly only a real brain can answer.
+Even worse, those with accomplishments worthy of the designation
+4 ~ Origins of Genius ~
+"genius" do not always make the IQ cut. When Terman first used the IQ test
+to select a sample of child geniuses, he unknowingly excluded a special child
+whose IQ did not make the grade. Yet a few decades later that overlooked
+talent received the Nobel Prize in physics: William Shockley, the cocreator
+of the transistor. Ironically, not one of the more than 1,500 children who
+qualified according to his IQ criterion received so high an honor as adults.
+Clearly, a Nobel laureate has much greater claim to the term genius than
+those whose achievements did not win them such applause.
+Eminence. The last statement brings us to an alternative definition—the
+one preferred for use throughout this book. This particular definition's origins go back over a century, to Francis Galton, whose 1869 classic, Hereditary Genius, defined genius in terms of enduring reputation. By this Galton
+meant "the opinion of contemporaries, revised by posterity... the reputation of a leader of opinion, of an originator, of a man to whom the world
+deliberately acknowledges itself largely indebted." Certainly, those men and
+women who receive Nobel Prizes are honored for this very reason. When
+Niels Bohr received the Nobel Prize for physics, when Marie Curie received
+one for chemistry, when Ivan Pavlov received one for medicine and physiology, and when Toni Morrison received one for literature, they were being
+acknowledged for their notable contributions to their respective domains,
+and hence to human culture as a whole.
+The only qualification that we must impose on this attribution is that, as
+Galton noted, the "opinion of contemporaries" must be "revised by posterity." There do exist occasions when contemporary judgment errs according
+to the retrospective assessment of subsequent generations. Banting and
+Macleod, for example, shared a 1923 Nobel Prize for figuring out a way to
+isolate insulin, yet now the credit is given to Banting and his laboratory
+assistant Best, the original role of Macleod now being considered minimal
+at best. Nonetheless, empirical studies have amply demonstrated that there
+exists a strong consensus linking the judgments of contemporaries with the
+evaluations of posterity. Those who were most famous in their own times
+tend to be the most eminent decades, even centuries, later. Hence, Dante
+was being overly pessimistic when he claimed that "worldly renown is
+naught but a breath of wind, which now comes this way and now comes
+that, and changes name because it changes quarter." In fact, eminence relies
+not only on transhistorical stability but on cross-cultural consensus besides.
+Individual differences in distinction cut across national boundaries and
+transcend subcultures within nations. For example, differential fame of
+African Americans within that minority culture correlates very highly with
+the differential fame of those same luminaries within the majority European American culture.
+This eminence definition of genius has four major advantages. First, it
+~ Genius and Darwin ~ 5
+automatically avoids the problem of the so-called unrecognized genius. If
+an individual commands no reputation, and thus is unrecognized, then it is
+not possible for him or her to claim status as a genius. Indeed, the phrase
+unrecognized genius becomes an oxymoron. Second, the eminence definition comes closer to what genius means in everyday language. The word is
+commonly used to refer to those individuals whose impact on history is
+most widely recognized as broad and enduring. Third, this definition captures something of the notion of uniqueness that is present in the word's
+etymology. People do not claim fame because they do what everyone else
+does. On the contrary, they attain distinction because they accomplish that
+which sets them apart from the crowd. Every first-rate genius is necessarily
+sui generis. Fourth, because eminence varies immensely from person to person, the current definition allows us to speak of degrees of genius. For
+instance, the place of Beethoven in the history of European music amply
+exceeds that of his contemporary Anton Reicha. On that basis we can style
+Beethoven the superior genius. Only Bach and Mozart have reputations that
+rival Beethoven's in the world of classical music.
+Of course, no definition is perfect. Fame is at times capricious. Eminence
+is sometimes bestowed without complete regard to actual achievement. As
+Shakespeare once put it, "some are born great, some achieve greatness, and
+some have greatness thrust upon 'em." Even so, the connection between
+overt accomplishments and ultimate distinction is not so whimsical as to
+render this operational definition invalid. It will be sufficient for our purposes to concur with Thomas Carlyle when he noted that "fame, we may
+understand, is no sure test of merit, but only a probability of such." That
+probability is especially high when we deal with those who attain distinction for creativity.
+Creativity
+Another contemporary of Beethoven, Napoleon, also earned the title of
+genius, in his case military genius. Indeed, by the eminence definition,
+Napoleon's genius may have far exceeded that of Beethoven. Winning decisive battles probably has far more impact than writing popular symphonies.
+However, in this book our interest will be in genius associated with creativity rather than that associated with leadership. This imposes the need to
+define what counts as creativity. Fortunately, this is a somewhat easier task.
+Psychologists have reached the conclusion that creativity must entail the
+following two separate components.
+First, a creative idea or product must be original. Producing exact copies
+of someone else's paintings, or reproducing verbatim quotes from other
+people's poetry, or repeating scientific theories that others have already presented before the world—none of this can be considered original. Hence,
+6 ~ Origins of Genius ~
+not one of these activities is deemed creative. However, to provide a meaningful criterion, originality must be defined with respect to a particular
+sociocultural group. What may be original with respect to one culture may
+be old news to the members of some other culture. Thus, Galileo's discovery
+of sunspots counts as an original contribution to European civilization even
+though the Chinese had noted their existence for well over a thousand
+years.
+Second, the original idea or product must prove adaptive in some sense.
+The exact nature of this criterion depends on the type of creativity being
+displayed. In terms of technology, for example, an invention must not only
+be new, but it must also work. A rocket made of cinder blocks may be original, but if it cannot get off the ground, the conception cannot be considered
+creative. A scientific theory, in contrast, must be logically coherent and factually correct to count as adaptive. A theory that is self-contradictory or that
+conflicts with the best established empirical findings may be original, but it
+cannot be considered creative. In the arts, finally, adaptiveness often entails
+the capacity to maintain interest through novel expression as well as
+through powerful emotional appeal. For instance, a symphony that lacks
+beautiful or exciting themes and that fails to make a deeper emotional connection with the audience will fail by the criterion of adaptiveness. Clearly,
+an original idea or product is judged as adaptive not by the originator but
+rather by the recipients. Accordingly, we have another reason for maintaining that creativity entails an interpersonal or sociocultural evaluation. Not
+only must others decide whether something seems original, but they are
+also the ultimate judges of whether that something appears workable.
+Given the foregoing two-criterion definition of creativity, we are now
+ready to define more precisely what we mean by creative genius. Essentially,
+these are individuals credited with creative ideas or products that have left a
+large impression on a particular domain of intellectual or aesthetic activity.
+In other words, the creative genius attains eminence by leaving for posterity
+an impressive body of contributions that are both original and adaptive. In
+fact, empirical studies have repeatedly shown that the single most powerful
+predictor of eminence within any creative domain is the sheer number of
+influential products an individual has given the world. Mozart is considered
+a greater musical genius than Tartini in part because the former accounts
+for 30 times as much music in the classical repertoire as does the latter.
+Indeed, almost a fifth of all classical music performed in modern times was
+written by just three composers: Bach, Mozart, and Beethoven. Parallel
+points can be made with regard to scientific creativity. The most potent predictor of contemporary and posthumous fame is the number of citations a
+scientist receives from other scientists who publish in professional journals.
+In fact, those scientists who receive the most journal citations also have the
+~ Genius and Darwin ~ 7
+highest odds of earning the Nobel Prize for contributions to their scientific
+discipline.
+Notice that this definition of creative genius agrees with Galton's eminence criterion. These individuals are originators whose contributions are
+acknowledged by contemporary and future generations. These are people
+to whom others feel indebted. And this indebtedness can be illustrated in
+countless ways. It is shown when we walk through an art museum, attend a
+concert or opera, see a classic play, or read a great book. Homage is paid
+when the discoveries and inventions of the past are used to construct the
+miracles of today, whether they be drugs, telephones, computers, automobiles, bridges, jet airliners, or rockets. Of course, some of us display our
+indebtedness in more explicit fashion when we attempt to build on the
+achievements of a notable predecessor. As Newton advised, we can see farther than the rest if we stand on the shoulders of giants. If we wish to see farther into the origins of genius, the giant on whose shoulders we must stand
+may just be Galton's cousin, Charles Darwin.
+Charles Darwin
+Was Darwin a genius? If we had to give an answer based on the intelligence definition, the answer might be negative. Darwin admitted in his
+autobiography that he was considered "much slower in learning than my
+younger sister" and that his teachers and father viewed him "as a very ordinary boy, rather below the common standard in intellect." At school he
+found himself "singularly incapable of mastering any language." Nor did he
+mature into a particularly brilliant adult, as he revealed in the following
+self-assessment:
+I have no great quickness of apprehension or wit which is so remarkable in some clever men, for instance, Huxley. I am therefore a poor
+critic: a paper or book, when first read, generally excites my admiration, and it is only after considerable reflection that I perceive the
+weak points. My power to follow a long and purely abstract train of
+thought is very limited; and therefore I could never have succeeded
+with metaphysics or mathematics. My memory is extensive, yet hazy:
+it suffices to make me cautious by vaguely telling me that I have
+observed or read something opposed to the conclusion which I am
+drawing, or on the other hand in favour of it; and after a time I can
+generally recollect where to search for my authority.
+Naturally, such modest remarks are hard to translate into a specific IQ
+score necessary for the application of the intelligence criterion. Nonetheless, one of Terman's graduate students at Stanford provided an estimate of
+8 ~ Origins of Genius ~
+Darwin's IQ score based on his childhood and adolescent activities and
+achievements, including any clear signs of intellectual precocity. He
+weighed in with an IQ of only 135. Although this would be high enough to
+earn Darwin membership in Mensa, it would not have been sufficiently
+high to be included in Terman's primary sample of intellectually gifted children. Because such membership nominally demanded an IQ score of at
+least 140, Darwin might have joined a Nobel laureate among the rejects.
+Hence, by this definition Darwin would at best be considered a borderline
+genius.
+Yet there can be no doubt that Darwin fits the Galtonian definition of
+creative genius. The magnitude of his influence on both the biological sciences and the world at large is unquestionable, made evident in a multitude
+of ways. For example, one ranking of "the 100 most influential persons in
+history" placed Darwin ijth, immediately after Moses! Darwin's 1859 volume On the Origin of Species has been identified as one of the "books that
+changed the world." And this same book, coupled with his Descent of Man,
+constituted a whole volume of the anthology Great Books of the Western
+World. Even a century after his death, hundreds of scientific journal articles
+appear each year that pay explicit homage to his powerful ideas. And thousands of books have been written on Darwin, his theories, and his empirical
+discoveries.
+Perhaps the most striking evidence for Darwin's status is the fact that his
+name has become an eponym. An eponym is a word that originated in
+someone's proper name, such as is so often seen in place-names. Many creative geniuses have had their names expropriated in this fashion—another
+form of acknowledging our indebtedness. In the sciences, for example,
+there are laws attached to the names of Coulomb, Dalton, Fechner, Joule,
+Ohm, and Weber; temperature scales named after Celsius, Fahrenheit, and
+Kelvin; measurement units named after Ampere, Angstrom, Bell, Faraday,
+Henry, 0rsted, and Watt; as well as miscellaneous elements, effects, concepts, theorems, processes, instruments, and even whole fields named after
+Boole, Curie, Descartes, Einstein, Fermi, Fourier, Galileo, Galvani, Gauss,
+Lamarck, Linnaeus, Lister, Mach, Maxwell, Mendel, Newton, Pasteur,
+Pavlov, Ptolemy, and Pythagoras. In Darwin's case, of course, the relevant
+additions to the list of eponyms are the adjective Darwinian and the noun
+Darwinism.
+But what is Darwinism? Why is it so important? What did Darwin contribute that earns him eponymic status? To address this question, we must
+recognize that there actually exist two kinds of Darwinism, the primary and
+the secondary. The primary form comprises Darwin's theory of biological
+evolution, along with the many scientific developments extending from this
+theory to explain the diverse features of living organisms. The secondary
+- Genius and Darwin - 9
+form of Darwinism, in contrast, has to do with the explanation of other
+phenomena not directly related to biological evolution. Darwinian theory
+provides the basis for describing analogous processes that operate outside
+the sphere of biological evolution proper. This distinction between primary
+and secondary Darwinism is extremely important, because their scientific
+standings are not identical and the phenomena they treat are usually very
+different. Therefore, I must devote some time to outlining what these two
+forms entail.
+Primary Darwinism
+In essence, Darwin's Origin of Species was devoted to establishing a phenomenon and a process. The phenomenon was the evolution of life-forms.
+Darwin spent many pages trying to show how all biological species, both
+living and extinct, descended from common ancestral forms. Earlier species
+would not only change over time but they would also frequently undergo
+speciation, producing two or more species where previously there had been
+only one. One of the more effective illustrations is that of the extremely varied species of finches Darwin observed on the Galapagos Islands during his
+famed Beagle voyage. Although at first Darwin made no explicit effort to
+include Homo sapiens in this documentation, a dozen years later, in Descent
+of Man, he made it clear that he believed the human species had also
+evolved. Humans shared ancestors with the apes, who in turn had common
+origins in the early mammals—and so on down to the very beginnings of
+life on this planet.
+The very idea of biological evolution was extremely controversial at the
+time. Most Europeans, and even most naturalists, believed that the biblical
+accounts of creation, as described in the first chapters of Genesis, were literally true. All species were created in one grand miracle by God, and for the
+most part species had been fixed in form since the creation, an event that
+had transpired as late as around 4000 B.C. To be sure, some naturalists
+would allow for catastrophic events, such as Noah's flood, that might have
+caused the extinction of some early life-forms and thus account for the previously unknown, fossilized animals that were being excavated. Even so,
+there was no reason to doubt the basic veracity of the creationist theory. Yet
+not only did Darwin struggle to undermine this prevailing view, his eventual inclusion of the human species in the evolutionary model struck at the
+very heart of the biblical story. God did not especially create Adam out of
+clay or create Eve out of Adam's rib, but rather all of us were descended from
+lowly apes and monkeys.
+Of course, not everyone was adamantly opposed to the doctrine of evolution. Many were willing to weigh the evidence and arrive at their own
+conclusions. Gradually, Darwin was able to win over many of his most
+10 ~ Origins of Genius ~
+important contemporaries, such as T. H. Huxley, who joined him in propagating the revolutionary idea. Moreover, in some respects evolution had the
+Zeitgeist on its side. Victorian England was obsessed with the idea of incessant progress, and evolution seemed to imply that the very origins of life
+involved an unrelenting progression from the less adaptive to the more
+adaptive and from the simple to the complex. Thus, human beings could be
+placed at the pinnacle of the evolutionary progression. And, taking things a
+step farther, some Darwinians would descry a similar progression taking
+place within our species, placing some races above others in some hypothetical hierarchy of humanity. For example, just such a racial ranking was
+advocated by Galton in his Hereditary Genius, in which he placed the Athenians above the British, and the British above the Africans.
+Although the phenomenon of evolution was the most controversial feature of Darwin's contribution in his own day, evolution is now considered
+by almost all biological scientists to be an established fact rather than a
+speculative theory. Even the majority of the Christian faiths have come
+around to accepting the phenomenon, interpreting Genesis in a more figurative sense. Where there still remains room for scientific controversy,
+however, is in the Darwinian process by which evolution was said to take
+place. Put in a nutshell, the process maybe characterized by the following
+six assertions.
+1. There occurs spontaneous variation in life-forms within any given
+species. For example, the beaks of finches may be big or small, long or
+short. Of course, finches may vary on a host of other dimensions as
+well, such as coloration, overall size, wing design, digestive enzymes,
+and various instinctive behaviors involving courtship, nest building,
+and so forth.
+2. These variable characteristics are to some extent subject to biological
+inheritance. That is, parents with certain traits tend to produce
+offspring with very similar traits. Like breeds like.
+3. Some trait-variant life-forms are better adapted to the environment
+than others. For instance, some types of beaks may work best for small
+seeds, others for large seeds, and still others for insects or other classes
+of food. If small seeds are the predominant food source, a particular
+type of beak will become more adaptive.
+4. The capacity of any species to reproduce their kind well outstrips the
+capacity of the environment to feed and shelter the potential progeny,
+which necessitates a "struggle for existence." The inspiration for this
+proposition came from the 1798 Essay on the Principle of Population by
+Thomas Malthus, who first discussed the negative consequences of
+humanity's aptitude for reproducing itself faster than it can feed itself.
+5. Those variants that are more fit are more likely to survive and repro-
+~ Genius and Darwin - 11
+duce their kind. Those finches with beaks that best permit the
+exploitation of available food resources will have higher odds of surviving to maturity and of procreating through several breeding seasons. This is the critical Darwinian mechanism of natural selection.
+6. With each successive generation, the more fit variants will gradually
+replace the less fit variants in a given population. The outcome is a
+population that maximally adapted to the resources of a particular
+environment. Over time what will emerge is an entirely new species.
+Not only could this process explain the evolution of a species over geological time, but it could also account for the divergence of single species
+into two or more species—the phenomenon of speciation. Any complex
+environment contains a large variety of resources, such as different types of
+food or forms of shelter. Although an organism might endeavor to exploit
+all available resources, pursuing the strategy of a generalist, such an organism would find it difficult to compete with other organisms that have specialized in the exploitation of a subset of those resources—those that
+belong to what is now termed an "ecological niche." The result is the phenomenon of adaptive radiation. Naturally, one example of such speciation
+is the way that "Darwin's finches"—another eponym!—filled up the ecological niches created by the volcanic emergence of the Galapagos Islands.
+A more dramatic illustration is the manner in which the dinosaurs differentiated into their extremely varied forms: carnivores and herbivores, big
+and small, in a myriad of structural configurations, walking over the surface of the earth, swimming the planet's oceans, and winging their way
+through its skies.
+Hence, although this Darwinian process of natural selection could
+explain many aspects of the phenomenon of evolution, it was a far cry from
+a complete system. Darwin himself was well aware of many of the difficulties in his theory, and he spent much of his life trying to make improvements in his theoretical system. Moreover, after Darwin's death others
+developed various aspects of his basic theory, expanding the explanatory
+power and sophistication of primary Darwinism. Three developments since
+the Origin of Species are worth special mention here: sexual selection, the
+"modern synthesis," and sociobiology. Besides documenting the tremendous explanatory power of Darwinian theory, we will come across ideas
+that may have potential for helping us understand Darwinian perspectives
+on the origins of creative genius.
+Sexual selection. Darwin realized very early that not all traits organisms
+possess can be easily explained according to the principle of natural selection. Indeed, sometimes a species would exhibit certain structures or behaviors that seem to be outright maladaptive. The classic example is the long
+12 ~ Origins of Genius ~
+and brilliant plumage of the peacock. If this grand display of feathers were
+so adaptive, one would think the peahen would boast the same characteristic. Instead, her tail has an appearance presumably more conducive to survival in the wild. Darwin recognized that such exaggerated traits were probably the upshot of sexual selection. Once the peahens, for whatever reason,
+began to prefer the peacocks with more impressive displays, those that beat
+out the competition sired more offspring. Each generation of males would
+possess even more impressive tail feathers. To be sure, the process cannot
+continue indefinitely. Eventually, the selection pressure exerted by the need
+for survival—the finding of food and the avoidance of predation—will outweigh any gains acquired in the sexual prowess conferred by these feathery
+advertisements. An equilibrium will be reached where the push of sexual
+selection toward larger and more brilliant tails will be counterbalanced by
+the pull of natural selection toward tails less cumbersome and conspicuous.
+The current peacock epitomizes the point of the even trade-off.
+It is important to note that these two counteracting forces are really two
+means to the same end. Those traits that enhance the individual's ability to
+reproduce its kind will be the ones that will become more prominent in the
+next generation. Natural selection will determine which variant will survive
+to sexual maturity; but under circumstances in which females can choose
+among males who must compete for mates, such survival may not suffice to
+ensure reproductive success. To obtain that goal, males may have to incur
+some costs to win the sexual competition. But, on the average, the benefits
+compensate for the costs.
+The "modern synthesis." Darwin's initial theory encountered two difficulties that were even more fundamental. First, his theory did not specify precisely how the spontaneous variations came about. Second, his theory did
+not provide a mechanism for the inheritance of adaptive traits. These two
+problems are closely related. Before the advent of modern genetics, there
+existed a common belief in "blending" inheritance: the offspring would
+possess traits that would be some average of those of its parents. One consequence of such a form of inheritance would be that variation in any trait
+would diminish with each successive generation until all members of a
+species would exhibit the same inherent value. To be sure, there might survive variation due to environmental circumstances, but such variation
+would not be inheritable and thus not subject to natural selection. Another
+consequence of blending inheritance is that if by some fluke an individual
+happened to possess a highly adaptive trait that departed from the average,
+that characteristic would quickly become diluted once that individual
+mated with the rest of the population. Under such conditions, it is difficult
+to imagine how evolution could take place.
+Although Darwin did not realize it, the solution to this problem had
+~ Genius and Darwin ~ 13
+appeared within the decade that followed the Origin of Species. An obscure
+Austrian monk named Gregor Mendel had published the results of a series
+of breeding experiments with garden peas. These results established the
+basis of modern genetics. Mendel showed that various traits that characterize different varieties of peas, such as the color of the flowers, were carried
+by discrete units of inheritance that we now call genes. Moreover, during
+sexual reproduction, the diverse units freely recombine to produce an
+incredible variety of possible variants. This helped solve the problem of
+where the spontaneous variations originate. Just as important, the traits do
+not blend, but rather they maintain their integrity from generation to generation. Indeed, according to Mendel's discovery of the distinction between
+dominant and recessive traits, an individual who received a dominant gene
+from one parent and a recessive gene from another would only exhibit the
+trait carried by the dominant gene. In any case, it soon became evident that
+variation in a population would be maintained across consecutive generations, unless selective forces operated to the contrary. Although Mendel's
+original laws of heredity were to undergo many transformations over the
+years, it soon became clear that genetics helped resolve the difficulties in
+Darwin's theory.
+So primary Darwinism merged with Mendelism to produce a new "ism"
+known as neo-Darwinism, or the "modern synthesis." Besides the laws of
+heredity, this updated version of Darwin's theory incorporated the phenomenon of mutation into the mechanism of spontaneous variations. Not
+all variants that appear in a population represent straightforward recombinations of genes received from parents. Sometimes totally new genes will
+appear as well. Such haphazard additions are most often deleterious, and
+many mutant variations do not survive or reproduce their novel kind. Even
+so, mutations can provide a powerful resource for evolution on those rare
+occasions when the new trait is highly adaptive.
+Neo-Darwinism gave primary Darwinism a new lease on intellectual life.
+It thereby became a rich theory that could be expanded in many directions.
+For example, with the discovery of DNA (deoxyribonucleic acid) and the
+emergence of molecular biology, both inheritance and mutation could be
+understood in more fundamental terms. The evolution of species could be
+investigated from the perspective of transformation in the makeup of the
+DNA molecules that contain the genetic information. An earlier, but just as
+potent, development was the emergence of the notion of population genetics, which holds that a species can be conceived as a population with a set of
+genes that have a particular frequency distribution that transfers from generation to generation according to genetic laws. Evolution takes place when
+the frequencies of various genes change over time in a manner that departs
+from the laws of heredity. Such changes in gene frequencies may reflect the
+14 ~ Origins of Genius ~
+operation of selection pressures. Or they could reflect the influence of such
+phenomena as genetic drift, which occurs in small populations when each
+generation obtains a random sample of the genes in the preceding generation. The discipline of population genetics provides a highly rigorous way
+of treating these diverse evolutionary changes by specifying the relevant
+processes in mathematical terms. For instance, these methods could be used
+to determine the precise circumstances under which sexual selection would
+produce a "runaway process," in which traits become increasingly exaggerated and maladaptive. Hence, with the advent of population genetics, primary Darwinism advanced from a qualitative explanatory theory to a quantitative predictive theory. Darwinism thus enabled biology to join the ranks
+of other mathematical sciences, such as physics, chemistry, and economics.
+Sociobiology. Some gaps in Darwinism's explanatory scope still
+remained, however. One of the more irksome problems had to do with
+altruism. The Darwinian process appeared to favor only selfish behavior. In
+the struggle for existence—in the competition for food, shelter, and
+mates—there seemed no room for true self-sacrifice. To be sure, there
+might be occasions in which animals might engage in behavior with the
+superficial appearance of altruism. For example, animals might cooperate
+in the search for food or defense of their territory. And they might engage in
+acts of reciprocity, where favors might be exchanged according to the principle of "I will scratch your back if you will scratch mine." But insofar as this
+reciprocal altruism directly benefits the individuals engaged, such behaviors
+cannot be considered bona fide altruism. At bottom, cooperation and reciprocation can still be seen as manifestations of underlying "selfish genes."
+Nevertheless, apparent acts of genuine altruism do seem to exist in
+nature. The most conspicuous examples, perhaps, come from the complex
+worlds of the social insects, such as honeybees and ants. The workers in
+these societies forfeit the opportunity to reproduce themselves in order to
+raise offspring on behalf of their queen. Besides putting their lives at risk
+when foraging for food, these workers will often sacrifice their lives in
+defense of the colony. This altruistic heroism is perhaps most dramatic in
+bees, whose barbed stingers often oblige their owners to commit suicide by
+disembowelment when attacking would-be invaders. Although perhaps not
+so sensational, similar acts of authentic altruism are sometimes prominent
+in the world of other social animals, such as the primates—including, of
+course, the human species.
+One early solution to this enigma was to introduce the doctrine of
+"group selection." Although altruistic behavior might be costly to the wellbeing of individual organisms, it was argued that those species with more
+altruists may be more apt to survive and reproduce when that species competes with others in the exploitation of a particular ecological niche. In
+~ Genius and Darwin ~ 15
+other words, the unit of selection was neither the gene nor the organism but
+rather the entire group making up a species. Although this account was not
+without attractions or adherents, it fell short of a convincing explanation.
+Population genetics could easily demonstrate that group selection would
+favor the increased frequency of altruistic genes only under the rarest of circumstances. Indeed, within any given population there will always exist
+selection pressures in favor of selfish individuals willing to take advantage
+of their altruistic conspecifi.cs. Eventually, the genes carried by these
+"cheaters" will overwhelm those of the altruists. Hence, the very existence of
+altruistic proclivities would seem to be most perilous.
+The real breakthrough came with the recognition that it was not the
+individuals that were being selected, but rather it was the genes. Not only
+could those genes reside in more than one individual, but also related individuals shared more genes than did unrelated individuals, and the higher
+the degree of relationship the larger the expected proportion of shared
+genes. Therefore, a gene that promoted altruistic behavior on behalf of close
+relatives could indeed survive and proliferate in a population. Individuals
+might even sacrifice their own reproductive success for the sake of related
+individuals with whom they shared enough genes. This possibility is most
+apparent in ants and bees. Owing to a peculiarity in the reproductive systems of these hymenopterans, a daughter is so highly related to her mother
+that considerable adaptive advantage can accrue to those genes that encourage the subordination of the daughters' reproductive interests to those of
+their queen. So the daughters become sterile workers who labor on behalf of
+the queen mother, helping the latter maximize the production of more sterile daughters. Thus, the apparently altruistic behavior remains selfish from
+the standpoint of the genes that support this subordination of individual
+interests to that of the colony. It is inclusive fitness, not individual fitness
+per se, that is being maintained—maintained through the process of kin
+selection.
+Although the specific details differ, this same concept of inclusive fitness
+proved useful in explaining the appearance of altruistic behavior in other
+species, including mammals. For instance, the first member of a prairie dog
+colony to spot a predator will bark a quick warning to others rather than
+quietly disappear within the security of the colony's underground tunnels
+system. This seemingly unselfish behavior makes more sense when we learn
+that the individual is acting to maximize inclusive fitness. After all, the
+members of any given colony are likely to be very closely related. As a consequence, the modest risk incurred by the individual in possibly attracting the
+predator's attention is adequately compensated by the higher odds that
+other members of the colony who carry the same genes will be able to seek
+safety in time.
+16 ~ Origins of Genius ~
+Once it became obvious that paradoxical behaviors like altruism could
+be explicated in terms of standard evolutionary theory, researchers endeavored to explain a great many social behaviors in strict Darwinian terms. The
+upshot was the emergence of the discipline of sociobiology, a research program most strongly associated with the zoologist Edward O. Wilson. Of
+course, the theorizing of sociobiologists was not always welcomed by other
+scientists, especially in the social sciences. It seemed like a classic instance of
+intellectual imperialism in which the theories of one discipline are imposed
+on the phenomena of quite another discipline. Moreover, some sociobiological explanations seemed not only reductionistic and deterministic but
+potentially sexist and racist besides. Sometimes sociobiologists seemed to
+defend the status quo, however inequitable, with assertions that such social
+injustices ensued from the evolutionary foundations of human nature.
+Nonetheless, I think it remains fair to say that once we have time to weed
+out the good from the bad applications of sociobiological theory, the
+achievements of this form of Darwinism will be better appreciated. At the
+very least, sociobiology illustrates how very powerful were Darwin's original
+insights. More than a century after his death, his theory of evolution by natural selection can still inspire new attempts to expand its explanatory scope
+and accuracy.
+Secondary Darwinism
+After the advent of the "modern synthesis," primary Darwinism emerged
+triumphant in the scientific community. As its explanatory and predictive
+power became increasingly obvious, the same basic ideas soon began to be
+applied successfully to other phenomena besides organic evolution. These
+applications represent the emergence of secondary Darwinism. In these
+derivative extensions there was seldom a need to demonstrate the existence
+of a phenomenon analogous to evolution. On the contrary, these secondary
+applications usually begin with some occurrence of growth, change, or
+development assumed as empirical fact. As a consequence, the key goal of
+these secondary forms was to show that these evolutionlike phenomena
+represent environmental adaptations that are acquired through a Darwinian process of variation and selection.
+To give a clearer idea of the nature of secondary Darwinism, I will offer
+brief examples of the most prominent applications. These illustrations fall
+into three categories according to the nature of the phenomena explained:
+the biological, the behavioral, and the cultural.
+Biological phenomena. One of the most successful applications of secondary Darwinism is the immunological theory of antibody production.
+According to this theory, special cells (B lymphocytes) are constantly
+engaged in the random recombination of the various components of the
+~ Genius and Darwin ~ 17
+antibodies that may successfully combat an antigen, such as a virus. When
+an antigen actually invades, a selection process takes place whereby those
+antibody combinations that best attack the intruder are selected at the
+expense of those that offer no defense. In a short time, the useful antibodies
+can be mass-produced until the immune system emerges victorious. This
+Darwinian procedure means that the system can guard against the evolution of new disease agents. This capacity is most critical, for the rate at
+which such agents can evolve is far more rapid than that of larger organisms
+such as the human being. Therefore, if humans and other large organisms
+with long life cycles had to acquire all the antibodies through organic evolution, they would probably face extinction. In a sense, every time we come
+down with a common cold, an eternal battle is being staged between a primary Darwinian process that yields ever more virulent antigens and a secondary Darwinian process that tries to counter with the most effective antibodies.
+Another biological illustration involves the growth and development of
+complex nervous systems, such as the human brain. In central nervous systems of any complexity, there may be billions of neurons, each with thousands of synapses that support untold numbers of neuronal connections. It
+is inconceivable that the intricate neuronal circuitry can be completely
+specified in the genetic code. Therefore, much of the detailed structure of
+the brain must emerge developmentally, by some kind of interaction
+between genetic specification and environmental stimulation. Many neuroscientists have described this developmental process as entailing an essentially variation-selection procedure. In fact, these theorists have explicitly
+identified the hypothesized process as entailing "Darwinism of the
+synapses" or "neural Darwinism." Although the particulars of the supposed
+mechanism depend on the theorist, the basic principle is the same. There
+first occurs an undisciplined "blooming" of neuronal connections—far in
+excess of what is required for efficient information processing. Next, this
+profusion of potential neural networks is followed by a "pruning" of connections that fail to prove useful according to subsequent sensory experience. As one advocate put it, the brain is a "Darwin machine" that endeavors
+to "make lots of random variants by brute bashing about, then select [ing]
+the good ones." Such a flexible, Darwinian process permits the development
+of a nervous system maximally adapted to its experiential world.
+Behavioral phenomena. It is one of the miracles of organic evolution that
+the primary Darwinian mechanism should discover two secondary Darwinian mechanisms for improving an individual's immunological and neurological systems. But these are not the only illustrations of secondary
+processes evolving out of the primary process. Another example comes
+from the realm of an organism's behavior. Obviously, one of the central
+i8 ~ Origins of Genius ~
+means of adapting to the environment is to respond to it—to search for
+food, locate shelter, flee from predators, find mates, and so forth. Each
+organism possesses a whole repertoire of such behaviors dedicated to maximizing its adaptive fitness. For many species, the bulk of this behavioral
+repertoire may be provided by the primary Darwinian process of organic
+evolution. That is, the behaviors represent instinctive motor patterns that
+were the genetic gifts of many generations of evolutionary variation and
+selection. So essential is the evolution of these adaptive instincts that Darwin allotted an entire chapter of the Origin of Species to explaining their
+emergence.
+Yet for those species with sufficiently complex nervous systems, the
+largest portion of the behavioral repertoire is acquired through direct experience with the world. Moreover, this learning process itself may be largely
+Darwinian. The most prominent proponent of this view was the psychologist B. F. Skinner, who devoted his life to outlining the principles of what he
+called "operant conditioning." Furthermore, he explicitly identified this
+learning process as functioning in the same way as Darwin's theory of evolution by natural selection. Each organism begins with a diverse assortment
+of rudimentary motor patterns that can be combined and recombined in an
+unlimited number of ways to produce more complex behaviors. The organism is thus capable of generating behavioral variations that provide the
+basis for environmental selection. Behavioral variants that produce positive
+consequences are retained, whereas those producing negative consequences
+are extinguished. In Skinnerian parlance, the organism emits "operants"
+that are then subjected to "reinforcement contingencies." To study this phenomenon scientifically, behaviorists would typically place a food-deprived
+rat or pigeon in what came to be known as a "Skinner box." To these conditions the creature would produce a wide variety of responses, most of which
+would prove futile; but eventually, by trial and error, the rat might press
+down a lever or the pigeon peck at a disk, and suddenly a food pellet would
+appear. With continued conditioning, the irrelevant actions vanish, and
+solely the appropriate operants remain. The animal is now optimally
+adapted to its environment, its behavioral repertoire shaped by the circumstances in which the organism must thrive and procreate.
+Using this learning paradigm, Skinner and his followers were able to
+demonstrate that extremely complex behaviors could be established by this
+Darwinian procedure. Pigeons have been trained to use mirrors, play tunes
+on the piano, compete against each other at Ping-Pong, and engage in symbolic communication. Moreover, behaviorists have taken operant conditioning outside the laboratory in an attempt to show its utility in solving
+applied problems (through such applications as learning machines, token
+economies, and behavioral therapy). Skinner has used operant condition-
+~ Genius and Darwin ~ 19
+ing as a general explanatory framework for understanding the acquisition
+and use of language. Even more interesting, given the subject matter of this
+book, Skinner has attempted to explain creative behavior as another example of a conditioned operant. Although he only speculated on the possibility, some empirical research suggests that creativity may respond positively
+to reinforcement, at least under the proper circumstances. Hence, this
+instance of secondary Darwinian theory can claim tremendous explanatory
+scope.
+Cultural phenomena. The adaptations acquired through organic evolution are retained in the population gene pool. There they can be readily
+passed down from generation to generation as a form of "received wisdom."
+In contrast, the adaptations acquired through operant conditioning are
+retained in the individual's memory. That means that the individual's death
+signifies a loss of that accumulated fitness. Therefore, it would seem more
+efficient to devise some means by which the skills and knowledge learned by
+one generation can be passed down to the next. The latter could then skip
+the trial-and-error process of their progenitors. Indeed, each generation
+could advance further than the previous generation, building on prior
+achievements to attain adaptive accomplishments ever more impressive.
+The most obvious way of effecting this end is for the members of each
+successive generation to imitate the adaptive behaviors of their parents or
+other elders. The appearance of such "monkey see, monkey do" transferal of
+acquired expertise illustrates on a single level culture as an alternative
+means of retaining selected variants. If members of a species form social
+groups, with sophisticated means of communication—especially language—then the dissemination of adaptations can also occur by direct
+instruction, whether by parents, teachers, peers, or experts. Indeed, in literate civilizations that have produced books, the transfer of expertise can even
+skip generations. The European Renaissance was partly stimulated by the
+rediscovery of the classical Greek creators whose works had been lost to
+Western civilization since the decline of the Roman Empire.
+Many researchers have suggested that cultures evolve just as species do,
+and that the mechanism underlying cultural evolution is closely analogous
+to that seen in organic evolution. Where the evolution of life-forms entails
+the selection of genetic variations, the evolution of cultures involves the
+selection of variations in acquired behaviors or beliefs. The units of selection in the former instance are genes, whereas the units in the latter case
+have been called "memes." This word derives from the Greek root for imitation; it thus represents the unit of imitation just as the gene stands for the
+unit of inheritance. According to Richard Dawkins, memes may include
+"tunes, ideas, catchphrases, clothes fashions, ways of making pots or building arches." Moreover, "just as genes propagate themselves in the gene pool
+20 ~ Origins of Genius ~
+by leaping from body via sperms or eggs, so memes propagate themselves in
+leaping from body to body via a process which, in the broad sense, can be
+called imitation." In addition, cultural evolution may exhibit many features
+found in organic evolution, such as analogs of random variation, genetic
+drift, and sexual selection.
+Admittedly, there also exist striking contrasts between these two forms of
+evolution. For example, the transfer of adaptations in organic evolution
+usually occurs from parents to offspring, whereas the transfer in cultural
+evolution may take place between any two individuals. Indeed, the generational transmission may even be reversed, as when children find themselves
+teaching their embarrassed parents how to use the family computer. Furthermore, for organic evolution the genes are passed from genotype to
+genotype, ignoring whatever adaptations individuals may have learned during their lifetimes. For cultural evolution, in contrast, the memes go from
+phenotype to phenotype, bypassing the genotype altogether—but thereby
+speeding up the rate by which a population can adapt to environmental
+conditions.
+These and many other differences notwithstanding, the similarities
+between the two evolutionary phenomena are close enough to inspire
+valuable theoretical and empirical analyses. For instance, the populationgenetics methods that have proven so useful in the study of organic evolution have been fruitfully applied to the study of cultural evolution. In fact,
+these mathematical analyses have permitted the creation of "dual-inheritance" theories that treat organic and cultural evolution simultaneously.
+This is an important intellectual advance, for all human beings are ultimately the product of the interplay of two long evolutionary histories, one
+determining a person's genetic constitution, the other governing that person's cultural heritage. These dual-inheritance theories also illustrate how
+the distinction I introduced between primary and secondary Darwinism
+can sometimes break down. In such systems, the variation-selection process
+operates at two interacting levels, so that genes and memes undergo coevolution. Yet the very possibility of such a synthesis of the two types dramatically demonstrates how very powerful were Darwin's initial insights.
+Darwinian Genius
+What makes Darwinism so attractive to so many scientists is its parsimony. Extremely complex, varied, and even unusual phenomena can be
+explicated in terms of a simple variation-selection mechanism. The richly
+diverse forms of life on this planet, the adaptive flexibility of the immunological and neurological systems, the unlimited elaborations of learned
+behaviors, and the remarkable variability of human cultures and societies—
+~ Genius and Darwin ~ 21
+all these and more have been granted Darwinian interpretations. To be sure,
+not everyone is sympathetic to Darwinian theories. From the very onset
+critics felt that an intelligent universe filled with purpose had been replaced
+by a chaotic world without a set direction. The infinite wisdom of an allpowerful but caring Creator gave way to billions of hapless little creatures,
+each struggling to survive and reproduce by seemingly senseless trial and
+error. If primary Darwinism evokes so much complaint, secondary Darwinism cannot be expected to do much better. Critics of B. F. Skinner maintained that the behaviors that most distinguish humans from the brutes
+were precisely those that could not be explained by operant conditioning.
+Even so, when a Darwinian explanation is found not to prove valuable in
+understanding a certain phenomenon, it often happens that the fault lies
+in which Darwinian mechanism was selected, not in Darwinism per se.
+Variation-selection processes occur at multiple levels, and so the investigator must be ever careful to adopt the proper level of operation. For instance,
+there exist many human social behaviors that may not comply with sociobiological interpretations because those behaviors have a cultural etiology. Yet
+insofar as cultural evolution is itself shaped by a Darwinian process, a valid
+explanation may finally emerge when the analysis is switched to populations of memes rather than genes. Similarly, although the Skinnerian conditioning paradigm stressed the variation and selection of behaviors, it is
+manifest that for complex cognitive systems, such as possessed by human
+beings, the Darwinian process more often operates internally. Before an
+individual acts in a novel situation, cognitive representations of alternative
+responses can be first generated and then tested against mental models of
+the external world. Finally, the researcher must always be wary of assuming
+that all secondary processes operate in precisely the same way as the primary process. As already noted, numerous functional differences divide
+organic and cultural evolution, and these differences must be accommodated for any scientifically useful account.
+Once these precautions are taken, however, Darwinian theories can provide extremely potent explanations for a great many natural phenomena.
+Among those phenomena is human creative genius. Indeed, there is something quite natural about such a theoretical application. The very definitions of creativity and genius seem almost to beg for a Darwinian perspective. If creativity is defined as the output of ideas that are both original and
+adaptive, then the creative act may approximate a variation-selection
+process. The creator must generate many different novelties from which are
+selected those that satisfy some intellectual or aesthetic criteria. Those creative individuals who have produced an unusual number of original and
+adaptive ideas will then attain eminence, and thus be counted among the
+geniuses. An eminent creator, or genius, is someone who has contributed to
+22 ~ Origins of Genius ~
+subsequent generations an impressive body of achievements. Stated in
+terms of cultural evolution, the creative genius is a person who has produced a large assortment of memes to posterity. Creative geniuses exhibit
+extraordinary "reproductive success" through their "productive success."
+Why, for example, do we call William Shakespeare a literary genius? The
+reason is obvious when we consider the Bard's legacy. Probably only the
+Bible is more likely to be found in English-speaking homes than is a volume
+containing the complete works of Shakespeare. His sonnets and other
+poems are still included in anthologies of great literature and are even
+recited as marriage oaths. His plays continue to be produced throughout
+the world, and in all the world's major languages. Indeed, his dramatic creations can be found on record, CD, videotape, and in full-length feature
+films. They have also been adapted or transformed in an astonishing variety
+of ways, such as in Akira Kurosawa's take on King Lear in his movie Ran, the
+updating of Romeo and Juliet in Leonard Bernstein's musical West Side
+Story, or the remake of Hamlet found in Tom Stoppard's Rosencrantz and
+Guildenstern Are Dead. Various other renditions of his dramas can be found
+in cartoons, comic books, and children's storybooks as well as in tone
+poems, songs, modern dance and ballet compositions, puppet shows, and
+kabuki theater. More operas are based on Shakespeare than on any other
+author; a partial list of composers who have written Shakespearean operas
+includes such names as Adam, Barber, Bellini, Berlioz, Britten, Bruch, Goldmark, Gounod, Halevy, Hoist, Nicolai, Purcell, Rossini, Smetana, Vaughan
+Williams, Verdi, Wagner, and Wolf-Ferrari. Tourists still visit Hamlet's castle
+in Denmark and the (fictitious) tomb of Romeo and Juliet in Italy—not to
+mention all of the pilgrimages made to Shakespeare's home in Stratfordupon-Avon.
+Moreover, it is not just the poems and plays that define his legacy to
+human culture. English is the second most widely spoken language in the
+world, and no other individual has contributed more to the richness of that
+language than Shakespeare. Hundreds of words and expressions that have
+now become part of everyday speech first appeared on his writing desk.
+Assassination, birthplace, critical, droplet, equivocal, fashionable, gobetween, hostile, invitation, lament, majestic, ode, pious, quarrelsome,
+retirement, shooting star, transcendence, useless, vulnerable, watchdog, and
+zany—these are just a smattering of the many words first coined by his
+genius. And such expressions as "All the world's a stage," "caviar to the general," "the dogs of war," "eaten me out of house and home," "household
+words," "a lean and hungry look," "the milk of human kindness," "one fell
+swoop," "the primrose path," "strange bedfellows," "wild-goose chase," and
+"the world's mine oyster" have become so commonplace that some grammar checkers in word-processing software will tag many of these as cliches.
+~ Genius and Darwin - 23
+Furthermore, these gems of expression have inspired their counterparts in
+the main languages of the world, enriching each tongue with new terms,
+images, and metaphors. No wonder, then, that near the beginning of this
+century the Chinese poet Liu Boduan could write an "Ode to Shakespeare"
+that claimed "Three hundred years have passed 'twixt then and now, Yet all
+the world looks to that mountain's brow!" Liu's praise confirms what Ben
+Jonson said of his illustrious contemporary: "He was not of an age but for
+all time." If Jonson's prediction holds, then there still should live memes
+descended from the Bard's pen when the last lights of civilization expire.
+Naturally, it was the same enduring nature of his legacy that obliged us to
+call Charles Darwin a creative genius. This legacy is acknowledged by the
+eponym that has attached his name to so much theoretical and empirical
+research in the biological and behavioral sciences. In the remainder of this
+book, I endeavor to carry this legacy forward into the very phenomenon
+that Darwin himself represents. For I believe that Darwinian theories can
+help us better appreciate the nature of creative genius. Indeed, I will argue
+during this book's course that such theoretical models enhance our understanding of Charles Darwin himself, whom we may take as an incontrovertible exemplar of genius-grade creativity. In a certain sense, I will sketch out
+Darwin's psychobiography, one conceptually Darwinist rather than psychoanalytic.
+To make my case, each chapter will examine a different aspect of the phenomenon. Chapter 2 concentrates on the thought processes responsible for
+creative ideas, thus setting the stage for all subsequent discussion. Chapter 3
+then covers the characteristics of creative individuals that enable them to
+generate those ideas. Chapter 4 continues the focus on the creator but this
+time scrutinizes the basis for the development of creative talent. Chapter 5
+switches the unit of analysis from the creative genius to the products on
+which his or her reputation is based. In contrast, chapter 6 shifts the analytical unit in the opposite direction, to the groups, cultures, or civilizations in
+which the creative geniuses emerge. The final chapter reviews and evaluates
+what I consider the landmarks of our Darwinian tour of creativity.
+I must stress that this panoramic view will not be totally uncritical,
+despite my professed enthusiasm for Darwinian principles. Theoretical
+interpretations can be bad as well as good. One of my goals is to examine
+the strengths and weaknesses of Darwinian accounts of exceptional creativity. The famous evolutionary biologist Theodosius Dobzhansky once made
+the often-quoted claim that "nothing in biology makes sense except in the
+light of evolution." We seek to know the extent to which a similar remark
+may be applied to the origins of genius.
